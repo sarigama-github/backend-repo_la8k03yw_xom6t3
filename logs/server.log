@@ -1,0 +1,33 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:36718 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:50444 - "GET /assistant/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50444 - "GET /assistant/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /assistant/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /assistant/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /cases HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /cases HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /tasks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /tasks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /invoices HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /invoices HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /settings HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50450 - "GET /settings HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38376 - "GET /assistant/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38376 - "GET /assistant/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60910 - "OPTIONS /assistant/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60924 - "POST /assistant/messages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60928 - "GET /cases HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60944 - "GET /cases HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60944 - "GET /tasks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60944 - "GET /tasks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60944 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60944 - "GET /clients HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60928 - "GET /invoices HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60928 - "GET /invoices HTTP/1.1" 200 OK
